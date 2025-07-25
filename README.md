@@ -329,10 +329,8 @@ git clone https://github.com/yourusername/infra-cost-analyzer.git
 ```
 
 ### **Adding New Cloud Providers**
-1. Study the provider's billing file format
-2. Add field mapping in the `performCostAnalysis()` function
-3. Update the README with examples
-4. Test with real data files
+- Study the provider's billing file format
+- Add field mapping in the `performCostAnalysis()` function
 
 ## 📝 Common File Issues & Solutions
 
